@@ -138,4 +138,4 @@ security: sanitize exported workflow credentials
 
 ## License
 
-Choose a license appropriate for your project before publishing publicly.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
