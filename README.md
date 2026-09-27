@@ -37,21 +37,27 @@ AI Agent           Original Form Data
      Gmail
 ```
 
-## Workflow Preview
+## Screenshots
 
-![Feedback Agent Workflow](screenshots/01-feedback-form.png)
+### 1. Feedback Form
 
-## AI Classification
+![Feedback Form](screenshots/feedback-form.png)
 
-![AI Agent](screenshots/02-ai-agent.png)
+### 2. AI Agent
 
-## Routing
+![AI Agent](screenshots/ai-agent.png)
 
-![Switch Routing](screenshots/03-switch-routing.png)
+### 3. Switch Routing
 
-## Airtable
+![Switch Routing](screenshots/switch-routing.png)
 
-![Airtable](screenshots/04-airtable.png)
+### 4. Airtable
+
+![Airtable](screenshots/airtable.png)
+
+### 5. Gmail
+
+![Gmail](screenshots/gmail.png)
 
 ## Notifications
 
