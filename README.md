@@ -55,13 +55,13 @@ AI Agent           Original Form Data
 
 ![Airtable](screenshots/airtable.png)
 
+
+## Notifications
+
 ### 5. Gmail
 
 ![Gmail](screenshots/gmail.png)
 
-## Notifications
-
-![Gmail](screenshots/06-gmail.png)
 
 ## What the workflow does
 
